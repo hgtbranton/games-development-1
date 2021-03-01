@@ -71,6 +71,14 @@ gdjs.MainCode.GDcheatBGObjects1= [];
 gdjs.MainCode.GDcheatBGObjects2= [];
 gdjs.MainCode.GDcheatBGObjects3= [];
 gdjs.MainCode.GDcheatBGObjects4= [];
+gdjs.MainCode.GDcontrolsTextObjects1= [];
+gdjs.MainCode.GDcontrolsTextObjects2= [];
+gdjs.MainCode.GDcontrolsTextObjects3= [];
+gdjs.MainCode.GDcontrolsTextObjects4= [];
+gdjs.MainCode.GDcheatTextObjects1= [];
+gdjs.MainCode.GDcheatTextObjects2= [];
+gdjs.MainCode.GDcheatTextObjects3= [];
+gdjs.MainCode.GDcheatTextObjects4= [];
 
 gdjs.MainCode.conditionTrue_0 = {val:false};
 gdjs.MainCode.condition0IsTrue_0 = {val:false};
@@ -213,7 +221,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTes
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8158812);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8380660);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -245,7 +253,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTes
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8160284);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8382324);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -287,7 +295,7 @@ for(var i = 0, k = 0, l = gdjs.MainCode.GDplayerObjects1.length;i<l;++i) {
 gdjs.MainCode.GDplayerObjects1.length = k;}if ( gdjs.MainCode.condition1IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition2IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8162572);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8384780);
 }
 }}
 }
@@ -381,7 +389,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8171188);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8392404);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -408,7 +416,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8172452);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8393764);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -435,7 +443,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8173740);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8395068);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -462,7 +470,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8175020);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8396428);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -522,7 +530,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTes
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8165508);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8387732);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -552,7 +560,7 @@ gdjs.MainCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTes
 }if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8167164);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8389052);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -578,7 +586,7 @@ gdjs.MainCode.condition1IsTrue_0.val = false;
 if ( gdjs.MainCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition1IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8168916);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8390284);
 }
 }}
 if (gdjs.MainCode.condition1IsTrue_0.val) {
@@ -1430,6 +1438,14 @@ gdjs.MainCode.GDcheatBGObjects1.length = 0;
 gdjs.MainCode.GDcheatBGObjects2.length = 0;
 gdjs.MainCode.GDcheatBGObjects3.length = 0;
 gdjs.MainCode.GDcheatBGObjects4.length = 0;
+gdjs.MainCode.GDcontrolsTextObjects1.length = 0;
+gdjs.MainCode.GDcontrolsTextObjects2.length = 0;
+gdjs.MainCode.GDcontrolsTextObjects3.length = 0;
+gdjs.MainCode.GDcontrolsTextObjects4.length = 0;
+gdjs.MainCode.GDcheatTextObjects1.length = 0;
+gdjs.MainCode.GDcheatTextObjects2.length = 0;
+gdjs.MainCode.GDcheatTextObjects3.length = 0;
+gdjs.MainCode.GDcheatTextObjects4.length = 0;
 
 gdjs.MainCode.eventsList15(runtimeScene);
 return;
